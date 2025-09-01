@@ -1,6 +1,6 @@
 Markdown
 
-# ADMET and Drug-Likeness Analysis Project
+# ADMET and Drug-Likeness Analysis
 
 This document contains a complete guide to the project, including a brief README and installation dependencies.
 
@@ -20,3 +20,4 @@ This project analyzes drug candidates from an Excel file. It runs them through d
 Save the following content as `requirements.txt` and install using `pip install -r requirements.txt`.
 
 **Note:** RDKit is best installed first via conda/mamba: `conda install -c conda-forge rdkit`.
+
